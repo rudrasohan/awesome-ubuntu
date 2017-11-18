@@ -298,8 +298,8 @@ Server - side javascript for creating awesome webapps.
  Need to set proxy here! This is specific for Kharagpur again.
 
 
- <pre style="background: rgb(238, 238, 238); border: 1px solid rgb(204, 204, 204); padding: 5px 10px;">npm config set proxy http://10.3.100.207:8080
-npm config set https-proxy http://10.3.100.207:8080</pre>
+ <pre style="background: rgb(238, 238, 238); border: 1px solid rgb(204, 204, 204); padding: 5px 10px;">npm config set proxy http://172.16.2.30:8080
+npm config set https-proxy http://172.16.2.30:8080</pre>
 
 
 * [Awesome resources](https://github.com/sindresorhus/awesome-nodejs#command-line-apps)
